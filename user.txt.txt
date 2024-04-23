@@ -1,0 +1,9 @@
+Name: Anurag
+      Archit
+      Avdeep
+
+git branch branch_name
+
+git branch
+
+git checkout branch_name
